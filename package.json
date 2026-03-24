@@ -1,0 +1,21 @@
+{
+  "name": "web_aut_roberts_rolmanis_md1",
+  "version": "1.0.0",
+  "description": "MD1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rprobertio4/WEB_AUT_ROBERTS_ROLMANIS_MD1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rprobertio4/WEB_AUT_ROBERTS_ROLMANIS_MD1/issues"
+  },
+  "homepage": "https://github.com/rprobertio4/WEB_AUT_ROBERTS_ROLMANIS_MD1#readme"
+}
