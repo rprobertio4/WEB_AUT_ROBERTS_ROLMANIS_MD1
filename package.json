@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/rprobertio4/WEB_AUT_ROBERTS_ROLMANIS_MD1/issues"
   },
-  "homepage": "https://github.com/rprobertio4/WEB_AUT_ROBERTS_ROLMANIS_MD1#readme"
+  "homepage": "https://github.com/rprobertio4/WEB_AUT_ROBERTS_ROLMANIS_MD1#readme",
+  "devDependencies": {
+    "cypress": "^15.12.0"
+  }
 }
